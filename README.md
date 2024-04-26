@@ -16,4 +16,6 @@ People in the club (as of 2023-2024)
 - Shammyan
 - Ahmeer
 
+Special Credit: Haytham
+
 **Please note that this project is still in the works as of making this README file. It is unknown if the project will be fully complete or only a prototype can be made before the end of the year.**
